@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Lexend lokal einbinden */
+@font-face {
+  font-family: 'Lexend';
+  src: url('./assets/fonts/lexend.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
